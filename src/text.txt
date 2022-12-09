@@ -1,0 +1,11 @@
+インデックス 2 の要素は 5 です
+IllegalArgumentExceptionが発生しました
+java.lang.IllegalArgumentException: 3 はサイズの範囲外です
+    at practice.Chapter10.validIndex(Chapter10.java:xxxx)
+    at practice.Chapter10.main(Chapter10.java:xxxx)
+SQLExceptionが発生しました
+java.sql.SQLException: SQLエラーです
+    at practice.Chapter10.throwSQLException(Chapter10.java:xxxx)
+    at practice.Chapter10.main(Chapter10.java:xxxx)
+throwSQLExceptionの呼び出し終了
+mainメソッド終了
